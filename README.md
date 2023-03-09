@@ -1,4 +1,4 @@
-<center><img align="center" src="https://discord.c99.nl/widget/theme-3/500367748724031492.png"/></center>
+<center><img align="center" src="https://discord.c99.nl/widget/theme-2/949408973583433728.png"/></center>
 
 
 # sphinx-run
@@ -59,4 +59,4 @@ sphinx.on("GetBotToken", token => {
 
 # Thanks
 - Special thanks to **Skyfall#5367** for editing the tutorial video.
-<img src="https://discord.c99.nl/widget/theme-3/1005949759325999104.png">
+<img src="https://discord.c99.nl/widget/theme-2/949408973583433728.png">
